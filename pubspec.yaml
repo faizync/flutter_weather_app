@@ -1,5 +1,5 @@
 name: weather_app
-description: A static Flutter weather UI deployed on AWS Amplify.
+description: A Flutter weather app with real API data, deployed on AWS Amplify.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.2.0
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
