@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
 // TODO: move to backend Lambda before production
 // API key exposed in client — acceptable for learning only
 const String apiKey = 'dacaaa00248d2cda4ca475b02a139ca7';
-const String city   = 'Multan';
+const String city   = 'Islamabad';
 
 // ── Data Models ───────────────────────────────────────────────────────────────
 
